@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day 1: ROS 2 Setup (WSL)
 
 ## What I did
@@ -23,3 +24,30 @@ Output:
 ## Next Step
 
 * Build my first custom ROS 2 Python node
+=======
+# Day 2: First Custom ROS 2 Node
+
+## What I built
+
+A custom ROS 2 node that publishes messages continuously.
+
+## Output
+
+"Hello from my first robot node!"
+
+## Screenshots
+
+![Output](./your_screenshot_name.png)
+
+## Challenges I faced
+
+* Build errors
+* Module not found issue
+* Fixed setup.py and folder structure
+
+## What I learned
+
+* ROS 2 package structure
+* Publisher node creation
+* Debugging ROS errors
+
