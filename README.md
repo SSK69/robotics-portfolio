@@ -37,7 +37,7 @@ A custom ROS 2 node that publishes messages continuously.
 
 ## Screenshots
 
-![Output](./your_screenshot_name.png)
+![Output](./robo_node.png.png)
 
 ## Challenges I faced
 
