@@ -29,3 +29,4 @@ Sensor Node → Processor Node → Decision Node → Output Node
 ---
 
 ## 📊 Example Output
+![Output](images/decision_output.png)
